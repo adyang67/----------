@@ -67,4 +67,3 @@ df = pd.DataFrame([
 ])
 print("\n===== 结果汇总 =====")
 print(df.to_string(index=False))
-

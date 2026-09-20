@@ -1,0 +1,15 @@
+﻿MISSING bottle
+MISSING cable
+DELETED capsule
+DELETED carpet
+DELETED grid
+DELETED hazelnut
+DELETED leather
+DELETED metal_nut
+DELETED pill
+DELETED screw
+DELETED tile
+DELETED toothbrush
+DELETED transistor
+DELETED wood
+DELETED zipper
